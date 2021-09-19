@@ -1,2 +1,2 @@
-# ArcoLinux Kvantum theme arc
+# ArcoLinux Leftwm themes
 
