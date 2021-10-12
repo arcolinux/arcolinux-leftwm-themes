@@ -1,6 +1,20 @@
 [[theme]]
+name = "candy"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-candy/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
+
+[[theme]]
 name = "smooth"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
+
+[[theme]]
+name = "eden"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-eden/"
 commit = "*"
 version = "1.1.2"
 leftwm_versions = "*"
