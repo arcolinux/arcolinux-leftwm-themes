@@ -39,3 +39,10 @@ repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-space/"
 commit = "*"
 version = "2.1.4"
 leftwm_versions = "*"
+
+[[theme]]
+name = "starwars"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-starwars/"
+commit = "*"
+version = "2.1.4"
+leftwm_versions = "*"
