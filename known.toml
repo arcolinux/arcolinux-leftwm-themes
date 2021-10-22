@@ -1,11 +1,4 @@
 [[theme]]
-name = "smooth"
-repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
-commit = "*"
-version = "1.1.2"
-leftwm_versions = "*"
-
-[[theme]]
 name = "eden"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-eden/"
 commit = "*"
@@ -20,6 +13,13 @@ version = "1.1.2"
 leftwm_versions = "*"
 
 [[theme]]
+name = "parker"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-parker/"
+commit = "*"
+version = "1.1.2"
+leftwm_versions = "*"
+
+[[theme]]
 name = "pi"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-pi/"
 commit = "*"
@@ -27,8 +27,8 @@ version = "1.1.2"
 leftwm_versions = "*"
 
 [[theme]]
-name = "parker"
-repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-parker/"
+name = "smooth"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
 commit = "*"
 version = "1.1.2"
 leftwm_versions = "*"
