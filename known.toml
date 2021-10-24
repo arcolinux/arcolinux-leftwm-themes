@@ -6,6 +6,13 @@ version = "2.1.4"
 leftwm_versions = "*"
 
 [[theme]]
+name = "material"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-material/"
+commit = "*"
+version = "2.1.4"
+leftwm_versions = "*"
+
+[[theme]]
 name = "matrix"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-matrix/"
 commit = "*"
@@ -29,6 +36,13 @@ leftwm_versions = "*"
 [[theme]]
 name = "smooth"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
+commit = "*"
+version = "2.1.4"
+leftwm_versions = "*"
+
+[[theme]]
+name = "shades"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-shades/"
 commit = "*"
 version = "2.1.4"
 leftwm_versions = "*"
