@@ -9,7 +9,7 @@ leftwm_versions = "*"
 name = "material"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-material/"
 commit = "*"
-version = "2.1.5"
+version = "2.1.6"
 leftwm_versions = "*"
 
 [[theme]]
