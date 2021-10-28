@@ -2,68 +2,75 @@
 name = "docky"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-docky/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "eden"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-eden/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
+leftwm_versions = "*"
+
+[[theme]]
+name = "forest"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-forest/"
+commit = "*"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "material"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-material/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "matrix"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-matrix/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "parker"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-parker/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "pi"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-pi/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "smooth"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-smooth/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "shades"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-shades/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "space"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-space/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
 name = "starwars"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-starwars/"
 commit = "*"
-version = "2.2.1"
+version = "2.3.1"
 leftwm_versions = "*"
