@@ -20,6 +20,20 @@ version = "2.3.1"
 leftwm_versions = "*"
 
 [[theme]]
+name = "grayblocks"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-grayblocks/"
+commit = "*"
+version = "2.3.1"
+leftwm_versions = "*"
+
+[[theme]]
+name = "greyblocks"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-greyblocks/"
+commit = "*"
+version = "2.3.1"
+leftwm_versions = "*"
+
+[[theme]]
 name = "material"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-material/"
 commit = "*"
