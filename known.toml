@@ -34,6 +34,13 @@ version = "2.3.2"
 leftwm_versions = "*"
 
 [[theme]]
+name = "halo"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-halo/"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+
+[[theme]]
 name = "material"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-material/"
 commit = "*"
