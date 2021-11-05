@@ -55,6 +55,13 @@ version = "2.3.2"
 leftwm_versions = "*"
 
 [[theme]]
+name = "mesh"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-mesh/"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+
+[[theme]]
 name = "parker"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-parker/"
 commit = "*"
