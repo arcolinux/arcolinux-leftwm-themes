@@ -6,6 +6,13 @@ version = "2.3.2"
 leftwm_versions = "*"
 
 [[theme]]
+name = "db-scifi-star"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db-scifi-star/"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+
+[[theme]]
 name = "docky"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-docky/"
 commit = "*"
