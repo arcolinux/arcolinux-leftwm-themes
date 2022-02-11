@@ -13,6 +13,13 @@ version = "2.3.2"
 leftwm_versions = "*"
 
 [[theme]]
+name = "db-nemesis"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db-nemesis/"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
+
+[[theme]]
 name = "docky"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-docky/"
 commit = "*"
