@@ -6,6 +6,13 @@ version = "2.4.1"
 leftwm_versions = ">=0.3.0"
 
 [[theme]]
+name = "fancy"
+repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-fancy/"
+commit = "*"
+version = "2.4.1"
+leftwm_versions = ">=0.3.0"
+
+[[theme]]
 name = "db"
 repository = "https://github.com/arcolinux/arcolinux-leftwm-theme-db/"
 commit = "*"
